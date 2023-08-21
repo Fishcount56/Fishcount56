@@ -16,3 +16,15 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fishcount56&theme=react&show_icons=true)
+
+<!--START_SECTION:waka-->
+<img
+  src="https://github.com/Fishcount56/Fishcount56/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
+Example:
+<img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
+<!--END_SECTION:waka-->
